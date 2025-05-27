@@ -19,9 +19,9 @@ footer {
 }
 
 @media (max-width:430px){
+  {
     footer {
-        li:nth-child(1) {
-            
-        }
+        
     }
+  }
 }
